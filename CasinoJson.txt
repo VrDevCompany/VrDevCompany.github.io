@@ -1,0 +1,4 @@
+{
+  "apk": "https://disk.yandex.ru/d/Fg2N8E2TD35QaA",
+  "version" : 1
+}
