@@ -1,4 +1,4 @@
 {
-  "apk": "https://disk.yandex.ru/d/Fg2N8E2TD35QaA",
+  "apk": "https://storage.yandexcloud.net/viavr.global/Igori_G3/Roulette.apk",
   "version" : 1
 }
