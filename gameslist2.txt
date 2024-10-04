@@ -1,6 +1,40 @@
 {
   "$values": [
     {
+      "preview_hor": "https://storage.yandexcloud.net/viavr.global/new_games/pic.png",
+      "download_url": "https://storage.yandexcloud.net/viavr.global/new_games/colony.apk",
+      "package_id": "com.viavr.colony",
+      "version" : 1,
+      "age_rating": 6,
+      "localizations": {
+        "en": {
+          "name": "Colony Simulator",
+          "is_default": "true"
+        },
+        "ru": {
+          "name": "Colony Simulator",
+          "is_default": "false"
+        }
+      }
+    },
+    {
+      "preview_hor": "https://storage.yandexcloud.net/viavr.global/new_games/horrorVRLogo.jpeg",
+      "download_url": "https://storage.yandexcloud.net/viavr.global/new_games/horror.apk",
+      "package_id": "com.viavr.horrorgame",
+      "version" : 1,
+      "age_rating": 6,
+      "localizations": {
+        "en": {
+          "name": "Horror Game",
+          "is_default": "true"
+        },
+        "ru": {
+          "name": "Horror Game",
+          "is_default": "false"
+        }
+      }
+    },
+    {
       "preview_hor": "https://storage.yandexcloud.net/viavr.global/Igori_G3/Space_Adventure/SpaceAdventureVRlogo.jpg",
       "download_url": "https://storage.yandexcloud.net/viavr.global/Igori_G3/Space_Adventure/Space-adventure.apk",
       "package_id": "com.viavr.spaceadventure",
@@ -326,12 +360,6 @@
     {
       "download_url": "https://storage.yandexcloud.net/viavr.global/Firefox%20reality.apk",
       "package_id": "org.mozilla.vrbrowser",
-      "version": "1",
-      "localizations": null
-    },
-    {
-      "download_url": "https://storage.yandexcloud.net/viavr.global/Igori_G3/Roulette.apk",
-      "package_id": "com.viavr.casino",
       "version": "1",
       "localizations": null
     }

@@ -1,0 +1,214 @@
+{
+  "$values": [
+    {
+      "preview_hor": "https://storage.yandexcloud.net/viavr.global/new_games/pic.png",
+      "download_url": "https://storage.yandexcloud.net/viavr.global/new_games/colony.apk",
+      "package_id": "com.viavr.colony",
+      "version" : 1,
+      "age_rating": 6,
+      "localizations": {
+        "en": {
+          "name": "Colony Simulator",
+          "is_default": "true"
+        },
+        "ru": {
+          "name": "Colony Simulator",
+          "is_default": "false"
+        }
+      }
+    },
+    {
+      "preview_hor": "https://storage.yandexcloud.net/viavr.global/new_games/horrorVRLogo.jpeg",
+      "download_url": "https://storage.yandexcloud.net/viavr.global/new_games/horror.apk",
+      "package_id": "com.viavr.horrorgame",
+      "version" : 1,
+      "age_rating": 6,
+      "localizations": {
+        "en": {
+          "name": "Horror Game",
+          "is_default": "true"
+        },
+        "ru": {
+          "name": "Horror Game",
+          "is_default": "false"
+        }
+      }
+    },
+    {
+      "preview_hor": "https://storage.yandexcloud.net/viavr.global/Igori_G3/Space_Adventure/SpaceAdventureVRlogo.jpg",
+      "download_url": "https://storage.yandexcloud.net/viavr.global/Igori_G3/Space_Adventure/Space-adventure.apk",
+      "package_id": "com.viavr.spaceadventure",
+      "version" : 1,
+      "age_rating": 6,
+      "localizations": {
+        "en": {
+          "name": "Space Adventure",
+          "is_default": "true"
+        },
+        "ru": {
+          "name": "Space Adventure",
+          "is_default": "false"
+        }
+      }
+    },
+    {
+      "preview_hor": "https://storage.yandexcloud.net/viavr.global/Igori_G3/MageHunter/Magehunterlogo.png",
+      "download_url": "https://storage.yandexcloud.net/viavr.global/Igori_G3/MageHunter/MageHunter.apk",
+      "package_id": "com.viavr.magehunter",
+      "version" : 1,
+      "age_rating": 6,
+      "localizations": {
+        "en": {
+          "name": "Mage Hunter",
+          "is_default": "true"
+        },
+        "ru": {
+          "name": "Mage Hunter",
+          "is_default": "false"
+        }
+      }
+    },
+    {
+      "preview_hor": "https://storage.yandexcloud.net/viavr.global/Igori_G3/TowerDefenceVR/TowerDefenseVRlogo.jpg",
+      "download_url": "https://storage.yandexcloud.net/viavr.global/Igori_G3/TowerDefenceVR/TowerDefenceVR.apk",
+      "package_id": "com.viavr.towerdefencevr",
+      "version" : 1,
+      "age_rating": 6,
+      "localizations": {
+        "en": {
+          "name": "Tower Defence VR",
+          "is_default": "true"
+        },
+        "ru": {
+          "name": "Tower Defence VR",
+          "is_default": "false"
+        }
+      }
+    },
+    {
+      "preview_hor": "https://storage.yandexcloud.net/viavr.global/Igori_G3/com.Cykyria.QuestForRunia/unnamed.png",
+      "download_url": "https://storage.yandexcloud.net/viavr.global/Igori_G3/com.Cykyria.QuestForRunia/Quest_for_Runia_1.12_FNAL.apk",
+      "package_id": "com.Cykyria.QuestForRunia",
+      "version" : 1,
+      "age_rating": 6,
+      "localizations": {
+        "en": {
+          "name": "Quest for Runia",
+          "is_default": "true"
+        },
+        "ru": {
+          "name": "Quest for Runia",
+          "is_default": "false"
+        }
+      }
+    },
+    {
+      "preview_hor": "https://storage.yandexcloud.net/viavr.global/Igori_G3/com.HomeNetGames.WW1VR.globa/unnamed.png",
+      "download_url": "https://storage.yandexcloud.net/viavr.global/Igori_G3/com.HomeNetGames.WW1VR.globa/_PICO_Warplanes-WW1_Fighters_4.3.0.8_FNAL%2B.apk",
+      "package_id": "com.HomeNetGames.WW1VR.globa",
+      "version" : 1,
+      "age_rating": 12,
+      "localizations": {
+        "en": {
+          "name": "Warplanes WW1 Fighters",
+          "is_default": "true"
+        },
+        "ru": {
+          "name": "Warplanes WW1 Fighters",
+          "is_default": "false"
+        }
+      }
+    },
+    {
+      "preview_hor": "https://storage.yandexcloud.net/viavr.global/Igori_G3/com.IvanovichGames.pico197/unnamed.png",
+      "download_url": "https://storage.yandexcloud.net/viavr.global/Igori_G3/com.IvanovichGames.pico197/_PICO_1976_Back_to_Midway_2.81_FNAL%2B.apk",
+      "package_id": "com.IvanovichGames.pico197",
+      "version" : 1,
+      "age_rating": 12,
+      "localizations": {
+        "en": {
+          "name": "1976 Back to Midway",
+          "is_default": "true"
+        },
+        "ru": {
+          "name": "1976 Back to Midway",
+          "is_default": "false"
+        }
+      }
+    },
+    {
+      "preview_hor": "https://storage.yandexcloud.net/viavr.global/Igori_G3/com.Pico.Defende/wonderglade_hor.png",
+      "download_url": "https://storage.yandexcloud.net/viavr.global/Igori_G3/com.Pico.Defende/_PICO_Defender_1.2_2_FNAL%2B.apk",
+      "package_id": "com.Pico.Defende",
+      "version" : 1,
+      "age_rating": 12,
+      "localizations": {
+        "en": {
+          "name": "Defender",
+          "is_default": "true"
+        },
+        "ru": {
+          "name": "Defender",
+          "is_default": "false"
+        }
+      }
+    },
+    {
+      "preview_hor": "https://storage.yandexcloud.net/viavr.global/Igori_G3/com.PixelityGames.Puttzzle/unnamed.png",
+      "download_url": "https://storage.yandexcloud.net/viavr.global/Igori_G3/com.PixelityGames.Puttzzle/PUTTZZLE_1.009_FNAL.apk",
+      "package_id": "com.PixelityGames.Puttzzle",
+      "version" : 1,
+      "age_rating": 6,
+      "localizations": {
+        "en": {
+          "name": "Puttzzle",
+          "is_default": "true"
+        },
+        "ru": {
+          "name": "Puttzzle",
+          "is_default": "false"
+        }
+      }
+    },
+    {
+      "preview_hor": "https://storage.yandexcloud.net/viavr.global/Igori_G3/com.noowanda.discover/unnamed.png",
+      "download_url": "https://storage.yandexcloud.net/viavr.global/Igori_G3/com.noowanda.discover/_PICO_Discovery_2.6.0.0_FNAL%2B.apk",
+      "package_id": "com.noowanda.discover",
+      "version" : 1,
+      "age_rating": 6,
+      "localizations": {
+        "en": {
+          "name": "Discovery",
+          "is_default": "true"
+        },
+        "ru": {
+          "name": "Discovery",
+          "is_default": "false"
+        }
+      }
+    },
+    {
+      "preview_hor": "https://storage.yandexcloud.net/viavr.global/Igori_G3/com.viavr.game/image-57-1024x582.png",
+      "download_url": "https://storage.yandexcloud.net/viavr.global/Igori_G3/com.viavr.game/Beat12.apk",
+      "package_id": "com.viavr.game",
+      "version" : 1,
+      "age_rating": 6,
+      "localizations": {
+        "en": {
+          "name": "Beat Sword",
+          "is_default": "true"
+        },
+        "ru": {
+          "name": "Beat Sword",
+          "is_default": "false"
+        }
+      }
+    },
+    {
+      "download_url": "https://storage.yandexcloud.net/viavr.global/Firefox%20reality.apk",
+      "package_id": "org.mozilla.vrbrowser",
+      "version": "1",
+      "localizations": null
+    }
+  ]
+}
