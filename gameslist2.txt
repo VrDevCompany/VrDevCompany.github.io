@@ -1,7 +1,7 @@
 {
   "$values": [
     {
-      "preview_hor": "https://storage.yandexcloud.net/viavr.global/new_games/pic.png",
+      "preview_hor": "https://storage.yandexcloud.net/viavr.global/new_games/colony.jpg",
       "download_url": "https://storage.yandexcloud.net/viavr.global/new_games/colony.apk",
       "package_id": "com.viavr.colony",
       "version" : 1,
