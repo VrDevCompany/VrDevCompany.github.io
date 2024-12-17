@@ -2,10 +2,10 @@
   "$values": [
     
     {
-      "preview_hor": "https://i.ibb.co/Btzbq0q/1.png",
-      "download_url": "https://www.dropbox.com/scl/fi/auw3qvz3ygpda9whhgiqm/tower_defence_skyworth.apk?rlkey=9cwiumrd6ed8fcac89hvxhisp&st=ku5t5n0t&dl=1",
+      "preview_hor": "https://i.ibb.co/1d74vCY/Tower-Defense-VRlogo.jpg",
+      "download_url": "https://www.dropbox.com/scl/fi/zm0qns3se4331lnlgfuc8/tower_defence_skyworth.apk?rlkey=ze4yy4xelqxq7usw2zhftfkac&st=1aoxfn4o&dl=1",
       "package_id": "com.viavr.towerdefencevr",
-      "version" : 1,
+      "version" : 2,
       "age_rating": 12,
       "localizations": {
         "en": {
