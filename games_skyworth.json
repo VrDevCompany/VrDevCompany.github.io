@@ -1,0 +1,22 @@
+{
+  "$values": [
+    
+    {
+      "preview_hor": "https://i.ibb.co/Btzbq0q/1.png",
+      "download_url": "https://www.dropbox.com/scl/fi/auw3qvz3ygpda9whhgiqm/tower_defence_skyworth.apk?rlkey=9cwiumrd6ed8fcac89hvxhisp&st=ku5t5n0t&dl=1",
+      "package_id": "com.viavr.towerdefencevr",
+      "version" : 1,
+      "age_rating": 12,
+      "localizations": {
+        "en": {
+          "name": "Tower Defence VR",
+          "is_default": "true"
+        },
+        "ru": {
+          "name": "Tower Defence VR",
+          "is_default": "false"
+        }
+      }
+    }
+  ]
+}
