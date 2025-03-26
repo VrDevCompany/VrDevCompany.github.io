@@ -1,10 +1,10 @@
 {
   "$values": [
     {
-      "preview_hor": "https://storage.yandexcloud.net/viavr.global/Igori_G3/fishing/Fishing_logo.png",
+      "preview_hor": "https://www.dropbox.com/scl/fi/e27g09xssu48jh6gj9m33/com_viavr_fishing_hor_low.png?rlkey=i3c5r75rip1nmeu3o7bvax6om&st=s7qjat95&dl=1",
       "download_url": "https://storage.yandexcloud.net/viavr.global/Igori_G3/fishing/fishing.apk",
       "package_id": "com.viavr.fishing",
-      "version" : 1,
+      "version": 1,
       "age_rating": 6,
       "localizations": {
         "en": {
@@ -18,10 +18,10 @@
       }
     },
     {
-      "preview_hor": "https://storage.yandexcloud.net/viavr.global/new_games/colony.png",
+      "preview_hor": "https://www.dropbox.com/scl/fi/g95fjyq5yn1048s5z0ffl/com_viavr_colony_hor_low.png?rlkey=6j3arb15ow718ij2fdfo1tt2z&st=ffzpzwtq&dl=1",
       "download_url": "https://storage.yandexcloud.net/viavr.global/new_games/colony.apk",
       "package_id": "com.viavr.colony",
-      "version" : 1,
+      "version": 1,
       "age_rating": 6,
       "localizations": {
         "en": {
@@ -35,10 +35,10 @@
       }
     },
     {
-      "preview_hor": "https://storage.yandexcloud.net/viavr.global/new_games/horrorVRLogo.jpeg",
+      "preview_hor": "https://www.dropbox.com/scl/fi/f951rjfu8bl3rk4dm9f2z/com_viavr_horrorgame_hor_low.png?rlkey=9ztphedlha5wsvdgiuktk2zg2&st=qyzi2kks&dl=1",
       "download_url": "https://storage.yandexcloud.net/viavr.global/new_games/horror.apk",
       "package_id": "com.viavr.horrorgame",
-      "version" : 1,
+      "version": 1,
       "age_rating": 6,
       "localizations": {
         "en": {
@@ -52,10 +52,10 @@
       }
     },
     {
-      "preview_hor": "https://storage.yandexcloud.net/viavr.global/Igori_G3/Space_Adventure/SpaceAdventureVRlogo.jpg",
+      "preview_hor": "https://www.dropbox.com/scl/fi/8qpihb0xyzlgwamoomcvx/com_viavr_spaceadventure_hor_low.png?rlkey=wqlv2h6d7sgsb3cea8mltllzl&st=abf3vgrg&dl=1",
       "download_url": "https://storage.yandexcloud.net/viavr.global/Igori_G3/Space_Adventure/Space-adventure.apk",
       "package_id": "com.viavr.spaceadventure",
-      "version" : 1,
+      "version": 1,
       "age_rating": 6,
       "localizations": {
         "en": {
@@ -69,10 +69,10 @@
       }
     },
     {
-      "preview_hor": "https://storage.yandexcloud.net/viavr.global/Igori_G3/MageHunter/Magehunterlogo.png",
+      "preview_hor": "https://www.dropbox.com/scl/fi/4hmiwze1u57wkkq87h92k/com_viavr_magehunter_hor_low.png?rlkey=79zyyuh6hrqxyiagzsxnyp6ax&st=n0oe5r4l&dl=1",
       "download_url": "https://storage.yandexcloud.net/viavr.global/Igori_G3/MageHunter/MageHunter.apk",
       "package_id": "com.viavr.magehunter",
-      "version" : 1,
+      "version": 1,
       "age_rating": 6,
       "localizations": {
         "en": {
@@ -86,10 +86,10 @@
       }
     },
     {
-      "preview_hor": "https://storage.yandexcloud.net/viavr.global/Igori_G3/TowerDefenceVR/TowerDefenseVRlogo.jpg",
+      "preview_hor": "https://www.dropbox.com/scl/fi/4cjqgacayivlqyzrn6roc/com_viavr_towerdefencevr_hor_low.png?rlkey=j2s1ru5lo23x8ju5fphygmqjz&st=yvv7d7bv&dl=1",
       "download_url": "https://storage.yandexcloud.net/viavr.global/Igori_G3/TowerDefenceVR/TowerDefenceVR.apk",
       "package_id": "com.viavr.towerdefencevr",
-      "version" : 1,
+      "version": 1,
       "age_rating": 6,
       "localizations": {
         "en": {
@@ -106,7 +106,7 @@
       "preview_hor": "https://storage.yandexcloud.net/viavr.global/PETYXI/angry_birds_hor.png",
       "download_url": "https://storage.yandexcloud.net/viavr.global/PETYXI/angry_birds.apk",
       "package_id": "com.resolutiongames.abvriop.picovr",
-      "version" : 1,
+      "version": 1,
       "age_rating": 6,
       "localizations": {
         "en": {
@@ -123,7 +123,7 @@
       "preview_hor": "https://storage.yandexcloud.net/viavr.global/IGRI/Affected%20the%20Manor/affected_hor.png",
       "download_url": "https://storage.yandexcloud.net/viavr.global/IGRI/Affected%20the%20Manor/com.pico.Integration.apk",
       "package_id": "com.pico.Integration",
-      "version" : 1,
+      "version": 1,
       "age_rating": 16,
       "localizations": {
         "en": {
@@ -140,7 +140,7 @@
       "preview_hor": "https://storage.yandexcloud.net/viavr.global/IGRI/Bandit%20Six%20Salvo/bandit_hor.png",
       "download_url": "https://storage.yandexcloud.net/viavr.global/IGRI/Bandit%20Six%20Salvo/com.climaxstudios.triplea.apk",
       "package_id": "com.climaxstudios.triplea",
-      "version" : 1,
+      "version": 1,
       "age_rating": 12,
       "localizations": {
         "en": {
@@ -157,7 +157,7 @@
       "preview_hor": "https://storage.yandexcloud.net/viavr.global/IGRI/Blackjack%20Bailey/blackjack_hor.png",
       "download_url": "https://storage.yandexcloud.net/viavr.global/IGRI/Blackjack%20Bailey/com.Hologram.Blackjack.apk",
       "package_id": "com.Hologram.Blackjack",
-      "version" : 1,
+      "version": 1,
       "age_rating": 18,
       "localizations": {
         "en": {
@@ -174,7 +174,7 @@
       "preview_hor": "https://storage.yandexcloud.net/viavr.global/IGRI/Death%20Horizon/death_horizon_hor.png",
       "download_url": "https://storage.yandexcloud.net/viavr.global/IGRI/Death%20Horizon/com.dreamdev.deathhorizon.pico.apk",
       "package_id": "com.dreamdev.deathhorizon.pico",
-      "version" : 1,
+      "version": 1,
       "age_rating": 18,
       "localizations": {
         "en": {
@@ -191,7 +191,7 @@
       "preview_hor": "https://storage.yandexcloud.net/viavr.global/IGRI/Escape/escape_hor.png",
       "download_url": "https://storage.yandexcloud.net/viavr.global/IGRI/Escape/com.superzero.encirclement.apk",
       "package_id": "com.superzero.encirclement",
-      "version" : 1,
+      "version": 1,
       "age_rating": 6,
       "localizations": {
         "en": {
@@ -208,7 +208,7 @@
       "preview_hor": "https://storage.yandexcloud.net/viavr.global/IGRI/Evil%20Robot%20Traffic%20Jam/evil_robot_hor.png",
       "download_url": "https://storage.yandexcloud.net/viavr.global/IGRI/Evil%20Robot%20Traffic%20Jam/com.elementgames.ertj.apk",
       "package_id": "com.elementgames.ertj",
-      "version" : 1,
+      "version": 1,
       "age_rating": 12,
       "localizations": {
         "en": {
@@ -225,7 +225,7 @@
       "preview_hor": "https://storage.yandexcloud.net/viavr.global/IGRI/Narrows/narrows_hor.png",
       "download_url": "https://storage.yandexcloud.net/viavr.global/IGRI/Narrows/com.resolutiongames.narrows.apk",
       "package_id": "com.resolutiongames.narrows",
-      "version" : 1,
+      "version": 1,
       "age_rating": 12,
       "localizations": {
         "en": {
@@ -242,7 +242,7 @@
       "preview_hor": "https://storage.yandexcloud.net/viavr.global/IGRI/Project%20Charon/project_charon_hor.png",
       "download_url": "https://storage.yandexcloud.net/viavr.global/IGRI/Project%20Charon/com.HomeNetGames.VRProjectCharon.apk",
       "package_id": "com.HomeNetGames.VRProjectCharon",
-      "version" : 1,
+      "version": 1,
       "age_rating": 12,
       "localizations": {
         "en": {
@@ -259,7 +259,7 @@
       "preview_hor": "https://storage.yandexcloud.net/viavr.global/IGRI/Sky%20Fighter/skyfighter_hor.png",
       "download_url": "https://storage.yandexcloud.net/viavr.global/IGRI/Sky%20Fighter/com.tresdscenica.skyfighterandroid.apk",
       "package_id": "com.tresdscenica.skyfighterandroid",
-      "version" : 1,
+      "version": 1,
       "age_rating": 12,
       "localizations": {
         "en": {
@@ -276,7 +276,7 @@
       "preview_hor": "https://storage.yandexcloud.net/viavr.global/IGRI/Spark%20of%20Light/spark_of_light_hor.png",
       "download_url": "https://storage.yandexcloud.net/viavr.global/IGRI/Spark%20of%20Light/com.PillowsWillow.SparkOfLightPVR.apk",
       "package_id": "com.PillowsWillow.SparkOfLightPVR",
-      "version" : 1,
+      "version": 1,
       "age_rating": 6,
       "localizations": {
         "en": {
@@ -293,7 +293,7 @@
       "preview_hor": "https://storage.yandexcloud.net/viavr.global/IGRI/Star%20Blueprint/star_blueprint_hor.png",
       "download_url": "https://storage.yandexcloud.net/viavr.global/IGRI/Star%20Blueprint/com.Chesstar.StarBluePrint.apk",
       "package_id": "com.Chesstar.StarBluePrint",
-      "version" : 1,
+      "version": 1,
       "age_rating": 6,
       "localizations": {
         "en": {
@@ -310,7 +310,7 @@
       "preview_hor": "https://storage.yandexcloud.net/viavr.global/IGRI/Throw%20Anything/throw_anything_hor.png",
       "download_url": "https://storage.yandexcloud.net/viavr.global/IGRI/Throw%20Anything/com.visuallight.throwanything.thailand.apk",
       "package_id": "com.visuallight.throwanything.thailand",
-      "version" : 1,
+      "version": 1,
       "age_rating": 12,
       "localizations": {
         "en": {
@@ -327,7 +327,7 @@
       "preview_hor": "https://storage.yandexcloud.net/viavr.global/IGRI/Wonder%20Glade/wonderglade_hor.png",
       "download_url": "https://storage.yandexcloud.net/viavr.global/IGRI/Wonder%20Glade/com.resolutiongames.wondergladepicovr.apk",
       "package_id": "com.resolutiongames.wondergladepicovr",
-      "version" : 1,
+      "version": 1,
       "age_rating": 6,
       "localizations": {
         "en": {
@@ -344,7 +344,7 @@
       "preview_hor": "https://storage.yandexcloud.net/viavr.global/IGRI/Zed%20Shot/zed_shot_hor.png",
       "download_url": "https://storage.yandexcloud.net/viavr.global/IGRI/Zed%20Shot/com.jameshoward.pico.zedshot.apk",
       "package_id": "com.jameshoward.pico.zedshot",
-      "version" : 1,
+      "version": 1,
       "age_rating": 18,
       "localizations": {
         "en": {
@@ -361,7 +361,7 @@
       "preview_hor": "https://storage.yandexcloud.net/viavr.global/IGRI/Zombie%20Tennis/imgonline-com-ua-Resize-h1tVFTn7W9.png",
       "download_url": "https://storage.yandexcloud.net/viavr.global/IGRI/Zombie%20Tennis/com.Kaneda.SmootsSurvival.apk",
       "package_id": "com.Kaneda.SmootsSurvival",
-      "version" : 1,
+      "version": 1,
       "age_rating": 12,
       "localizations": {
         "en": {
