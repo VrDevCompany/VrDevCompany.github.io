@@ -1,10 +1,10 @@
 {
   "$values": [
     {
-      "preview_hor": "https://storage.yandexcloud.net/viavr.global/Igori_G3/fishing/Fishing_logo.png",
+      "preview_hor": "https://storage.yandexcloud.net/viavr.global/Igori_G3/kartinki/com_viavr_fishing_hor_low.png",
       "download_url": "https://storage.yandexcloud.net/viavr.global/Igori_G3/fishing/fishing.apk",
       "package_id": "com.viavr.fishing",
-      "version" : 1,
+      "version": 1,
       "age_rating": 6,
       "localizations": {
         "en": {
@@ -18,10 +18,10 @@
       }
     },
     {
-      "preview_hor": "https://storage.yandexcloud.net/viavr.global/new_games/colony.png",
+      "preview_hor": "https://storage.yandexcloud.net/viavr.global/Igori_G3/kartinki/com_viavr_colony_hor_low.png",
       "download_url": "https://storage.yandexcloud.net/viavr.global/new_games/colony.apk",
       "package_id": "com.viavr.colony",
-      "version" : 1,
+      "version": 1,
       "age_rating": 6,
       "localizations": {
         "en": {
@@ -35,10 +35,10 @@
       }
     },
     {
-      "preview_hor": "https://storage.yandexcloud.net/viavr.global/new_games/horrorVRLogo.jpeg",
+      "preview_hor": "https://storage.yandexcloud.net/viavr.global/Igori_G3/kartinki/com_viavr_horrorgame_hor_low.png",
       "download_url": "https://storage.yandexcloud.net/viavr.global/new_games/horror.apk",
       "package_id": "com.viavr.horrorgame",
-      "version" : 1,
+      "version": 1,
       "age_rating": 6,
       "localizations": {
         "en": {
@@ -52,10 +52,10 @@
       }
     },
     {
-      "preview_hor": "https://storage.yandexcloud.net/viavr.global/Igori_G3/Space_Adventure/SpaceAdventureVRlogo.jpg",
+      "preview_hor": "https://storage.yandexcloud.net/viavr.global/Igori_G3/kartinki/com_viavr_spaceadventure_hor_low.png",
       "download_url": "https://storage.yandexcloud.net/viavr.global/Igori_G3/Space_Adventure/Space-adventure.apk",
       "package_id": "com.viavr.spaceadventure",
-      "version" : 1,
+      "version": 1,
       "age_rating": 6,
       "localizations": {
         "en": {
@@ -69,10 +69,10 @@
       }
     },
     {
-      "preview_hor": "https://storage.yandexcloud.net/viavr.global/Igori_G3/MageHunter/Magehunterlogo.png",
+      "preview_hor": "https://storage.yandexcloud.net/viavr.global/Igori_G3/kartinki/com_viavr_magehunter_hor_low.png",
       "download_url": "https://storage.yandexcloud.net/viavr.global/Igori_G3/MageHunter/MageHunter.apk",
       "package_id": "com.viavr.magehunter",
-      "version" : 1,
+      "version": 1,
       "age_rating": 6,
       "localizations": {
         "en": {
@@ -86,10 +86,10 @@
       }
     },
     {
-      "preview_hor": "https://storage.yandexcloud.net/viavr.global/Igori_G3/TowerDefenceVR/TowerDefenseVRlogo.jpg",
+      "preview_hor": "https://storage.yandexcloud.net/viavr.global/Igori_G3/kartinki/com_viavr_towerdefencevr_hor_low.png",
       "download_url": "https://storage.yandexcloud.net/viavr.global/Igori_G3/TowerDefenceVR/TowerDefenceVR.apk",
       "package_id": "com.viavr.towerdefencevr",
-      "version" : 1,
+      "version": 1,
       "age_rating": 6,
       "localizations": {
         "en": {
@@ -106,7 +106,7 @@
       "preview_hor": "https://storage.yandexcloud.net/viavr.global/Igori_G3/com.Cykyria.QuestForRunia/unnamed.png",
       "download_url": "https://storage.yandexcloud.net/viavr.global/Igori_G3/com.Cykyria.QuestForRunia/Quest_for_Runia_1.12_FNAL.apk",
       "package_id": "com.Cykyria.QuestForRunia",
-      "version" : 1,
+      "version": 1,
       "age_rating": 6,
       "localizations": {
         "en": {
@@ -123,7 +123,7 @@
       "preview_hor": "https://storage.yandexcloud.net/viavr.global/Igori_G3/com.HomeNetGames.WW1VR.globa/unnamed.png",
       "download_url": "https://storage.yandexcloud.net/viavr.global/Igori_G3/com.HomeNetGames.WW1VR.globa/_PICO_Warplanes-WW1_Fighters_4.3.0.8_FNAL%2B.apk",
       "package_id": "com.HomeNetGames.WW1VR.globa",
-      "version" : 1,
+      "version": 1,
       "age_rating": 12,
       "localizations": {
         "en": {
@@ -140,7 +140,7 @@
       "preview_hor": "https://storage.yandexcloud.net/viavr.global/Igori_G3/com.IvanovichGames.pico197/unnamed.png",
       "download_url": "https://storage.yandexcloud.net/viavr.global/Igori_G3/com.IvanovichGames.pico197/_PICO_1976_Back_to_Midway_2.81_FNAL%2B.apk",
       "package_id": "com.IvanovichGames.pico197",
-      "version" : 1,
+      "version": 1,
       "age_rating": 12,
       "localizations": {
         "en": {
@@ -157,7 +157,7 @@
       "preview_hor": "https://storage.yandexcloud.net/viavr.global/Igori_G3/com.Pico.Defende/wonderglade_hor.png",
       "download_url": "https://storage.yandexcloud.net/viavr.global/Igori_G3/com.Pico.Defende/_PICO_Defender_1.2_2_FNAL%2B.apk",
       "package_id": "com.Pico.Defende",
-      "version" : 1,
+      "version": 1,
       "age_rating": 12,
       "localizations": {
         "en": {
@@ -174,7 +174,7 @@
       "preview_hor": "https://storage.yandexcloud.net/viavr.global/Igori_G3/com.PixelityGames.Puttzzle/unnamed.png",
       "download_url": "https://storage.yandexcloud.net/viavr.global/Igori_G3/com.PixelityGames.Puttzzle/PUTTZZLE_1.009_FNAL.apk",
       "package_id": "com.PixelityGames.Puttzzle",
-      "version" : 1,
+      "version": 1,
       "age_rating": 6,
       "localizations": {
         "en": {
@@ -191,7 +191,7 @@
       "preview_hor": "https://storage.yandexcloud.net/viavr.global/Igori_G3/com.noowanda.discover/unnamed.png",
       "download_url": "https://storage.yandexcloud.net/viavr.global/Igori_G3/com.noowanda.discover/_PICO_Discovery_2.6.0.0_FNAL%2B.apk",
       "package_id": "com.noowanda.discover",
-      "version" : 1,
+      "version": 1,
       "age_rating": 6,
       "localizations": {
         "en": {
@@ -205,10 +205,10 @@
       }
     },
     {
-      "preview_hor": "https://storage.yandexcloud.net/viavr.global/Igori_G3/com.viavr.game/image-57-1024x582.png",
+      "preview_hor": "https://storage.yandexcloud.net/viavr.global/Igori_G3/kartinki/com_viavr_game_low.png",
       "download_url": "https://storage.yandexcloud.net/viavr.global/Igori_G3/com.viavr.game/Beat12.apk",
       "package_id": "com.viavr.game",
-      "version" : 1,
+      "version": 1,
       "age_rating": 6,
       "localizations": {
         "en": {
